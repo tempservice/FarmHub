@@ -283,7 +283,7 @@ do
 						Position = UDim2.new(00, 12, 0, 19),
 						Size = UDim2.new(0, 30, 0, 30),
 						ZIndex = 5,
-						Image = "rbxassetid://17604347534",
+						Image = "rbxassetid://17604403892",
 						ImageColor3 = themes.TextColor
 					}),
 					utility:Create("TextLabel", { -- title
